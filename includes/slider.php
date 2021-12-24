@@ -8,21 +8,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/img1.jpg" class="d-block w-100" style="height: 670px;" alt="images">
+      <img src="images/img1.jpg" class="d-block w-100" style="height: 500px;" alt="images">
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/img2.jpg" class="d-block w-100" style="height: 665px;" alt="images">
+      <img src="images/img2.jpg" class="d-block w-100" style="height: 500px;" alt="images">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/img3.jpg" class="d-block w-100" style="height: 665px;" alt="images">
+      <img src="images/img3.jpg" class="d-block w-100" style="height: 500px;" alt="images">
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>
